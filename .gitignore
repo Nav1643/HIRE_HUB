@@ -1,0 +1,8 @@
+node_modules/
+.env
+backend/public/resume/*
+backend/public/profile/*
+!backend/public/resume/.gitkeep
+!backend/public/profile/.gitkeep
+build/
+.DS_Store
